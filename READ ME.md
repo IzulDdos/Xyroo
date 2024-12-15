@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/m/GHSF-v48hVwAAAAd/anime-found.gif" alt="Animated GIF" width="600px" />
   <br/><br/>
 </div>
-<div align="center" style="background: url('https://github.com/Tanmyname/Tanmyname/blob/main/icon.jpg') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
+<div align="center" style="background: url('') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tan!;" />
   </h1>
@@ -15,7 +15,7 @@
 <div align="center" style="background-color: #222222; color: white; padding: 20px; border-radius: 10px;">
   🔭 I’m a student<br>
   🌱 I’m the beginner programer<br>
-  💬 Ask me about isuue from my ripository[here](https://github.com/Tanmyname/Pydl/issues)<br>
+  💬 Ask me about isuue from my ripository[here](https://github.com/IzulDdos)<br>
   ⚡ Fun fact: I love a coffee☕ while learning about all the programming languages
 </div>
 
