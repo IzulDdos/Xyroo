@@ -1,7 +1,7 @@
 <!-- Gambar Background Header -->
 <div align="center" style="background-color: #222222; padding: 40px; color: white; border-radius: 10px;">
   <h3>HI😁</h3>
-  <img src="https://media1.tenor.com/m/GHSF-v48hVwAAAAd/anime-found.gif" alt="Animated GIF" width="600px" />
+  <img src="https://f.uguu.se/DSxvZyZk.mp4" alt="Animated GIF" width="600px" />
   <br/><br/>
 </div>
 <div align="center" style="background: url('') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
