@@ -1,12 +1,12 @@
 <!-- Gambar Background Header -->
 <div align="center" style="background-color: #222222; padding: 40px; color: white; border-radius: 10px;">
   <h3>HI😁</h3>
-  <img src="https://f.uguu.se/DSxvZyZk.mp4" alt="Animated GIF" width="600px" />
+  <img src="https://tmpfiles.org/dl/17784269/tmp.mp4" alt="Animated GIF" width="600px" />
   <br/><br/>
 </div>
-<div align="center" style="background: url('') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
+<div align="center" style="background: url('https://github.com/IzulDdos/IzulDdos/blob/main/icon.jpg') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Xyroo/izul!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+perkenalkan!+👋;+I'm+Xyroo!;" />
   </h1>
   <h3 align="center">I'am programer from indonesia  🇮🇩</h3>
 </div>
@@ -15,7 +15,7 @@
 <div align="center" style="background-color: #222222; color: white; padding: 20px; border-radius: 10px;">
   🔭 I’m a student<br>
   🌱 I’m the beginner programer<br>
-  💬 Ask me about isuue from my ripository[here](https://github.com/IzulDdos)<br>
+  💬 Ask me about isuue from my ripository[here](https://github.com/Tanmyname/Pydl/issues)<br>
   ⚡ Fun fact: I love a coffee☕ while learning about all the programming languages
 </div>
 
@@ -37,7 +37,7 @@
 <!-- Bagian Tools dan Skill -->
 <h2 align="center" style="color: white;">The programming language I learned</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,javascript,c,java" />
+  <img src="https://skillicons.dev/icons?i=html,python,javascript,java" />
 </div>
 
 <hr/>
@@ -53,12 +53,12 @@
 <h2 align="center" style="color: white;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tanmyname&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IzulDdos&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tanmyname&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmyname&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
 <div align="center">
-<a href='https://YouTube.com/@xyroo911' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.youtube.com/@Xyroo991' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Bantu subregnum -_+' /></a>
 </div>
