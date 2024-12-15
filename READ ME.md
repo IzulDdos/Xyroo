@@ -6,7 +6,7 @@
 </div>
 <div align="center" style="background: url('') no-repeat center center; background-size: cover; padding: 100px 0; color: white; border-radius: 10px;">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Xyroo/izul!;" />
   </h1>
   <h3 align="center">I'am programer from indonesia  🇮🇩</h3>
 </div>
